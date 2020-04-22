@@ -17,7 +17,7 @@ The COPUpdater is implemented in ASP.NET Core 2.1 and is a simple command line b
 <!-- A teaser figure may be added here. It is best to keep the figure small (<500KB) and in the same repo -->
 
 ## Getting Started
-The COP.API is developed in Visual Studio using Dotnet Core 2.1.
+The ConvertKmlToMONICA is developed in Visual Studio using Dotnet Core 2.1.
 
 The easiest way to build it is to clone the repository using Visual Studio 2017 or higher and then build the software or to use the DotNet Core 2.1 SDK.
 The KML objects should have the name as The POI name and description should be the type of the POI. If more info is needed please change the source accordingly.
