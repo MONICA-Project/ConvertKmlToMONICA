@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ConvertKmlToMONICA": {
+      "commandName": "Project",
+      "commandLineArgs": "demo.kml",
+      "environmentVariables": {
+        "HttpAddress": "https://portal.monica-cloud.eu/LEEDS/cop/api/zone"
+      }
+    }
+  }
+}
